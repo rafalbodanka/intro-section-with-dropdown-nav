@@ -25,7 +25,7 @@ The challenge concerned building out this intro section with dropdown navigation
 
 ### Links
 
-Solution URL: 
+Solution URL: https://rafalbodanka.github.io/intro-section-with-dropdown-nav/
 
 ## My process
 
